@@ -6,6 +6,6 @@ This collection of scripts automatically estimates the time to read/watch/comple
 - looks for adoc files in the modules/chapter#/pages path.
 - includes variables for:
   - *reading speed* in words per minute
-  - *image *viewing time* in seconds (one size fits all)
+  - *image viewing time* in seconds (one size fits all)
   - *code block viewing time* in seconds (one size fits all)
 - when run, adds or replaces `:time_estimate:` attribute in relevant section#.adoc file *Note: we may want to change this for layout purposes.*
